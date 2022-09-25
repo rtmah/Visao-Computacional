@@ -1,2 +1,2 @@
 # Visao-Computacional
-Atividade #5: Visão Computacional
+Atividade #6: Visão Computacional
